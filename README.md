@@ -1,4 +1,4 @@
-# Find New Internships using AI web scrapper
+# Track New Internships using AI web scrapper
 
 <img width="817" alt="Screenshot 2025-05-06 234156" src="https://github.com/user-attachments/assets/f311947a-5065-4971-b0ff-b28c0a284638" />
 
